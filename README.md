@@ -18,4 +18,4 @@
 
 8. Fusionnez (Merge) votre branche avec la branche principale. Que remarquez vous?
 
-9. Créer votre propre repository Git et invitez un/des camarades de classes.
+9. Créez votre propre repository Git et invitez un/des camarades de classes.
