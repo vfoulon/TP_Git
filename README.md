@@ -6,7 +6,7 @@
 
 2. Créez votre propre branche à partir de la branche principale. Nommez cette branche PRENOM_NOM_ma_premiere_branche.
 
-3. Dans votre branche, créez un fichier Prénom_NOM.txt dans le dossier students. Remplissez le fichier comme vous le souhaitez (exemple : adresse email, date de naissance...). N'oubliez pas de saisir un message lors du commit!
+3. Dans votre branche, créez un fichier Prenom_NOM.txt dans le dossier students. Remplissez le fichier comme vous le souhaitez (exemple : adresse email, date de naissance...). N'oubliez pas de saisir un message lors du commit!
 
 4. Fusionnez (Merge) votre branche avec la branche principale.
 
