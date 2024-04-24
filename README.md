@@ -1,6 +1,6 @@
-## Formation Data Analyst : Découverte d'un logiciel de versioning, Git
+# Formation Data Analyst : Découverte d'un logiciel de versioning, Git
 
-# TP Git
+### TP Git
 
 1. Rejoignez le repository Git via l'URL github.com/vfoulon/TP_Git.git
 
